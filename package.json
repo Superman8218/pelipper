@@ -1,0 +1,19 @@
+{
+  "name": "pelipper",
+  "version": "1.0.0",
+  "description": "A brainstorming app, created mainly as a demo and practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Superman8218/pelipper.git"
+  },
+  "author": "Zac Yauney",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Superman8218/pelipper/issues"
+  },
+  "homepage": "https://github.com/Superman8218/pelipper#readme"
+}
